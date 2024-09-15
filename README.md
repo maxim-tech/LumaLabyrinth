@@ -17,7 +17,7 @@ Luma Labyrinth is a 2D mobile game made in Godot. It’s focused on exploring a 
 - There is another interaction where the player has to touch the screen while moving to generate a sword attack
 
 ## Installation
-Download the latest version from the GOOGLE PLAY STORE
+Download the latest version from the **Google Play Store**.
 
 ## Contact
 If you find any issues or bugs, feel free to reach out:
